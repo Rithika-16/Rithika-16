@@ -15,7 +15,8 @@ I am a self-motivated **Software Development Engineer** aspirant with a passion 
 - **Programming Languages**: Python, C, JavaScript, HTML, CSS  
 - **Version Control**: Git, GitHub   
 - **Problem-Solving**: Knowledge in algorithms and data structures  
-- **Tools**: VS Code, Jupyter Notebook, PyCharm  
+- **Tools**: VS Code, Jupyter Notebook, PyCharm
+- **Frameworks**:Django,Bootstrap 
 
 ## Soft Skills
 
