@@ -3,20 +3,20 @@
 
 ## About Me
 
-I am a self-motivated **Software Development Engineer** aspirant with a passion for problem-solving and building efficient, user-focused applications. I'm currently pursuing learning **Django** and have foundational knowledge in **front-end development** and **Python**. As an **electronics student**, I am also interested in the software domain and eager to explore **data science**, **AI**, and **development**. 
+I am a self-motivated **Software Development Engineer** aspirant with a passion for problem-solving and building efficient, user-focused applications. I'm currently pursuing learning **Java** and have foundational knowledge in **front-end development** and **Python**. As an **electronics student**, I am also interested in the software domain and eager to explore **software development**, **AI** and**java developmnt**
 
 - 🔭 Currently pursuing prefinal year of undergrad in electronics and communication engineering
-- 🌱 Currently learning: **Django** and **Data Science with Python**  
-- 💻 I am proficient in **HTML**, **CSS**, **JavaScript**, **Python**, and **C**  
+- 🌱 Currently learning: **Java** and **Spring**  
+- 💻 I am proficient in **HTML**, **CSS**, **JavaScript**,and **Python**  
 - 🎯 Aiming to gain experience as a Software Development Engineer Intern  
 
 ## Technical Skills
 
-- **Programming Languages**: Python, C, JavaScript, HTML, CSS  
+- **Programming Languages**: Python, C, JavaScript, HTML, CSS,java 
 - **Version Control**: Git, GitHub   
 - **Problem-Solving**: Knowledge in algorithms and data structures  
 - **Tools**: VS Code, Jupyter Notebook, PyCharm
-- **Frameworks**:Django,Bootstrap 
+- **Frameworks**:Spring,springboot
 
 ## Soft Skills
 
@@ -41,8 +41,7 @@ I am a self-motivated **Software Development Engineer** aspirant with a passion 
 
 Here are some of the projects I’ve worked on:
 
-- **2048 Game**: A **Python**-based implementation of the popular 2048 puzzle game. The game logic is built using basic Python concepts like loops, conditionals, and functions.
-- **Grocery Store Application**: A **Python**-based application for managing grocery store inventory and sales. The project includes functionalities for tracking products, sales transactions, and generating reports.
+- **tictactoe Game**: A **Java**-based implementation of the popular tic tac toe game. The game logic is built using basic java concepts like loops, conditionals,arrays,functions and methods.
 
 ---
 
