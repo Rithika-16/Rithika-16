@@ -44,6 +44,7 @@ Here are some of the projects I’ve worked on:
 - **tictactoe Game**: A **Java**-based implementation of the popular tic tac toe game. The game logic is built using basic java concepts like loops, conditionals,arrays,functions and methods.
 
 ---
-
+![Rithika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rithika-16&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rithika-16&layout=compact&theme=radical)
 ## Let's Connect!  
 Feel free to check out my repositories and connect with me!
